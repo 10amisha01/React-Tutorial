@@ -4,6 +4,7 @@ const Footer = () => {
     return (
         <div>
             This is Footer
+            this is sub-text of footer
         </div>
     )
 }
